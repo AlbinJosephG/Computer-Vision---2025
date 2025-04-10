@@ -13,4 +13,3 @@ This repository features computer vision techniques like color channel analysis,
 10. Image Segmentation
 11. Video Background Subtraction and Motion Detection
 
-Let me know if you'd like to make any further changes!
