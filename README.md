@@ -12,5 +12,5 @@ This repository features computer vision techniques like color channel analysis,
 9. Image Classification and Object Detection
 10. Image Segmentation
 11. Video Background Subtraction and Motion Detection
-12.Lucas Kanarde Algorithm - Optical Flow
+12. Lucas Kanarde Algorithm - Optical Flow
 
